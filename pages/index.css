@@ -96,7 +96,7 @@ nav {
     url(../images/background_recipes.svg);
   position: relative;
   flex-direction: column;
-  padding: 100px, 80px, 215px;
+  padding: 100px 80px 215px;
 }
 .recipes__title {
   font-family: "Inter";
