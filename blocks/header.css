@@ -6,6 +6,7 @@
   position: relative;
   flex-direction: column;
   padding: 30px 80px 40px;
+  z-index: 1;
 }
 .header__title {
   font-family: "Inter", Arial, sans-serif;
@@ -33,6 +34,7 @@
 }
 .header__image {
   position: absolute;
+  z-index: -1;
   top: 124px;
   right: 5px;
   width: 646px;
